@@ -13,4 +13,4 @@ Test
 <a href=#><img src="contributions.svg"></a>
 
 
-You are visitor number ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=You%20Are%20Visitor%20Number:)
