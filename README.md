@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 Test
 
 <a href=#><img src="contributions.svg"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=makiv2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?makiv2=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=makiv2.visitor-badge&left_color=red&right_color=green&left_text=You%20Are%20Visitor%20Number:)
