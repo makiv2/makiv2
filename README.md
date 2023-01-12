@@ -12,11 +12,11 @@
 
     
 <!-- STATS --> <!-- THEMES: gotham, maroongold -->
-<p align="center"> <img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=makiv2&show_icons=true&theme=maroongold" alt="makiv2" />
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=makiv2&show_icons=true&theme=maroongold" alt="makiv2" />
 
     
 <!-- LANGUAGES --> <!-- THEMES: highcontrast, maroongold -->
-<img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=makiv2&hide_title=true&layout=compact&theme=maroongold">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=makiv2&hide_title=true&layout=compact&theme=maroongold">
 
 
 <!-- TEST... -->
