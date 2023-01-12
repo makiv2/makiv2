@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=makiv2&show_icons=true&theme=gotham" alt="makiv2" />
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=makiv2&show_icons=true&theme=gotham" alt="makiv2" />
 
    <br />
   <br />
