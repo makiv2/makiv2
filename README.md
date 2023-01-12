@@ -10,7 +10,7 @@
 
 
 <!-- STATS --> <!-- THEMES: gotham, maroongold -->
-<p align="center"> ![Makiv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=makiv2&show_icons=true&theme=maroongold)
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=makiv2&show_icons=true&theme=maroongold" alt="makiv2" />
 <br />
 <br />
     
