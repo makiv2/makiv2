@@ -10,14 +10,13 @@
 <br />
 
 <!-- VISITOR COUNTER -->
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=makiv2.visitor-badge&left_color=red&right_color=green&left_text=You%20Are%20Visitor%20Number:">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=makiv2&color=00ADB5&style=for-the-badge">
 
-
+  
 <!-- SNAKE GAME -->
 <p align="center"> <a href=#><img src="contributions.svg"></a>
 
-    
-    
+
 <!-- STREAKSTATS... -->    
 <p align="center"> <img src="https://streak-stats.demolab.com?user=makiv2&theme=git-dark&fire=00DDA7&currStreakNum=00DDA7">
 
