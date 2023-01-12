@@ -1,5 +1,16 @@
+
+<!-- Website link -->
+<div align="center">
+  <a href="https://matijapopovic.dev">
+    <img src="https://user-images.githubusercontent.com/55803544/212119195-87d6fb55-634d-43a0-8eeb-33b1a25ce66e.gif">
+  </a>
+</div>
+
+<br />
+<br />
+
 <!-- VISITOR COUNTER -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=makiv2.visitor-badge&left_color=red&right_color=green&left_text=You%20Are%20Visitor%20Number:)
+<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=makiv2.visitor-badge&left_color=red&right_color=green&left_text=You%20Are%20Visitor%20Number:">
 
 
 <!-- SNAKE GAME -->
