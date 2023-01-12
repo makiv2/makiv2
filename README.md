@@ -16,7 +16,7 @@
 
     
 <!-- LANGUAGES --> <!-- THEMES: highcontrast, maroongold -->
-<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=makiv2&hide_title=true&layout=compact&theme=maroongold">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=makiv2&hide_title=true&layout=compact&theme=maroongold">
 
 
 <!-- TEST... -->
