@@ -9,6 +9,9 @@
 <div align="center">↑↑↑↑↑↑↑↑↑↑</div>
 <div align="center">Website (not finished/doesnt work for mobile)</div>
 
+<br/>
+<br/>
+
 <!-- VISITOR COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=makiv2&color=00ADB5&style=for-the-badge">
 
