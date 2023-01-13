@@ -4,12 +4,10 @@
   <a href="https://matijapopovic.vercel.app/">
     <img src="https://user-images.githubusercontent.com/55803544/212119195-87d6fb55-634d-43a0-8eeb-33b1a25ce66e.gif">
   </a>
-  ↑↑↑↑↑↑↑
-  Website
 </div>
 
-<br />
-<br />
+<div align="center">↑↑↑↑↑↑↑↑↑↑</div>
+<div align="center">Website</div>
 
 <!-- VISITOR COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=makiv2&color=00ADB5&style=for-the-badge">
