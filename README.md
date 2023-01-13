@@ -1,7 +1,7 @@
 
 <!-- Website link -->
 <div align="center">
-  <a href="www.matijapopovic.vercel.app/">
+  <a href="https://matijapopovic.vercel.app/">
     <img src="https://user-images.githubusercontent.com/55803544/212119195-87d6fb55-634d-43a0-8eeb-33b1a25ce66e.gif">
   </a>
 </div>
