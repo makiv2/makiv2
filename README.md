@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">↑↑↑↑↑↑↑↑↑↑</div>
-<div align="center">Website (not finished/doesnt work for mobile)</div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=5&color=3BF7DF&center=true&width=435&lines=WEBSITE!!!" alt="Typing SVG" /></a></div>
 
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=20000&color=F70000&center=true&width=435&lines=NOT+WORKING+ON+PHONE!" alt="Typing SVG" /></a></div>
 <br/>
 <br/>
 
