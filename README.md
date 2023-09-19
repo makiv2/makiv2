@@ -18,7 +18,7 @@
 <br/>
 <div align="center">
   <a href="https://prvault-mvp-website.vercel.app/">
-    <img src="https://github.com/makiv2/makiv2/assets/55803544/cd1fed2e-90e0-4eee-b428-3a562fee23f6" width=240 alt="PRVault Logo" />
+    <img src="https://github.com/makiv2/makiv2/blob/main/Logo1024x1024.png" width=240 alt="PRVault Logo" />
   </a>
 </div>
                                 
