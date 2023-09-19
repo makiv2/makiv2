@@ -7,9 +7,21 @@
 </div>
 
 <div align="center">↑↑↑↑↑↑↑↑↑↑</div>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=5&color=3BF7DF&center=true&width=435&lines=WEBSITE!!!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://matijapopovic.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=1500&pause=100&color=3BF7DF&center=true&vCenter=true&width=435&lines=Website!!!;Now+compatible+on+phone!" alt="Typing SVG" /></a></div>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1500&color=F70000&center=true&width=435&lines=NOT+WORKING+ON+PHONE!" alt="Typing SVG" /></a></div>
+<br/>
+<br/>
+
+<!-- PRVault -->
+<div align="center"><a href="https://prvault-mvp-website.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=1500&color=0D9488&center=true&vCenter=true&width=435&lines=Also+check+out+PRVault!" alt="Typing SVG" /></a></div>
+<div align="center">↓↓↓↓↓↓↓↓↓↓</div>
+<br/>
+<div align="center">
+  <a href="https://prvault-mvp-website.vercel.app/">
+    <img src="https://github.com/makiv2/makiv2/assets/55803544/cd1fed2e-90e0-4eee-b428-3a562fee23f6" width=240 alt="PRVault Logo" />
+  </a>
+</div>
+                                
 <br/>
 <br/>
 
