@@ -13,11 +13,11 @@
 <br/>
 
 <!-- PRVault -->
-<div align="center"><a href="https://prvault-mvp-website.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=1500&color=0D9488&center=true&vCenter=true&width=435&lines=Also+check+out+PRVault!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://www.prvault.pro"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=1500&color=0D9488&center=true&vCenter=true&width=435&lines=Also+check+out+PRVault!" alt="Typing SVG" /></a></div>
 <div align="center">↓↓↓↓↓↓↓↓↓↓</div>
 <br/>
 <div align="center">
-  <a href="https://prvault-mvp-website.vercel.app/">
+  <a href="https://www.prvault.pro">
     <img src="https://github.com/makiv2/makiv2/blob/main/Logo1024x1024.png" width=220 alt="PRVault Logo" />
   </a>
 </div>
